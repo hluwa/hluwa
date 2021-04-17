@@ -1,22 +1,16 @@
 ### Github Stats
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=hluwa&show_icons=true&hide_border=true&theme=graywhite&include_all_commits=true&count_private=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hluwa&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api?username=hluwa&show_icons=true&hide_border=false&theme=graywhite&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hluwa&layout=compact&hide_border=false&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true">
 </p>
 
-<p>
-<div>
-  
 ### Working
 
-- Android Security Research
+- Application Security Research
 - Reverse Engineering
 - Bug Hunter (Fake)
 
-</div>
-<div>
-  
 ### Reach Me
 
 - Twitter: https://twitter.com/_hluwa
@@ -25,8 +19,6 @@
 - 微信公众号: 虎克老湿基
 - 知识星球： 安全秃秃球 (免费)
 
-</div>
-<p>
 
 <!--
 **hluwa/hluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
