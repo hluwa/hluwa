@@ -1,13 +1,21 @@
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=hluwa&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hluwa&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api?username=hluwa&show_icons=true&hide_border=true&theme=flag-india&include_all_commits=true&count_private=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=hluwa&layout=compact&hide_border=true&langs_count=10&theme=flag-india&include_all_commits=true&count_private=true">
 </p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=hluwa&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=hluwa&repo=pixel-weather">
-</p> -->
+### Working
 
+- Android Security Research
+- Reverse Engineering
+- Bug Hunter (Fake)
+
+### Reach Me
+
+- Twitter: https://twitter.com/_hluwa
+- Mail: hluwa888@gmail.com
+- Pediy: https://bbs.pediy.com/user-home-715510.htm
+- 微信公众号: 虎克老湿基
+- 知识星球： 安全秃秃球 (免费)
 
 <!--
 **hluwa/hluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
