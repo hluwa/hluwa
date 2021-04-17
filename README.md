@@ -16,9 +16,9 @@
 - Twitter: https://twitter.com/_hluwa
 - Mail: hluwa888@gmail.com
 - Pediy: https://bbs.pediy.com/user-home-715510.htm
+- 知识星球： https://t.zsxq.com/NZFAuNN (FREE)
 - 安全客：https://www.anquanke.com/member/129264
 - 微信公众号: 虎克老湿基
-- 知识星球： 安全秃秃球 (免费)
 
 
 <!--
