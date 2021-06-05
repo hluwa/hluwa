@@ -11,6 +11,12 @@
 - Reverse Engineering
 - Bug Hunter (FAKE)
 
+## Recently Research
+
+- Program Analysis
+- Android Application Vulnerability
+- Automation Vulnerability Discover
+
 ## 📫 Reach Me
 
 - Twitter: https://twitter.com/_hluwa
