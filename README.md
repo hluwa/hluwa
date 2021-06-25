@@ -15,7 +15,7 @@
 
 - Program Analysis
 - Android Application Vulnerability
-- Automation Vulnerability Discover
+- Vulnerability Automation Mining
 
 ## 📫 Reach Me
 
