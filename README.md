@@ -7,9 +7,9 @@
 
 ## 🔭 Working
 
-- Application Security Research
+- Mobile Application Security
 - Reverse Engineering
-- Bug Hunter (FAKE)
+- Bug Hunter
 
 ## 🌱 Recently Research
 
@@ -21,9 +21,6 @@
 
 - Twitter: https://twitter.com/_hluwa
 - Email: hluwa888@gmail.com
-- Pediy: https://bbs.pediy.com/user-home-715510.htm
-- 知识星球： https://t.zsxq.com/NZFAuNN (FREE)
-- 安全客：https://www.anquanke.com/member/129264
 - 微信公众号: 秃头的逆向痴想
 
 
