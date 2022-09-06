@@ -11,11 +11,13 @@
 - Reverse Engineering
 - Bug Hunter
 
-## 🌱 Recently Research
-
-- Program Analysis
-- Android Application Vulnerability
-- Vulnerability Automation Mining
+## 🌱 Acknowledgements
+- Android Open Source Project: [CVE-2021-39794](https://source.android.com/docs/security/bulletin/2022-04-01)
+- Samsung: [CVE-2022-28542](https://security.samsungmobile.com/serviceWeb.smsb)
+- Microsoft: [MSRC Online Services 2022-01-31](https://msrc.microsoft.com/update-guide/acknowledgement/online)
+- XiaoMi: [MiSRC 2021-12 No.1](https://sec.xiaomi.com/#/hero) 
+- Tencent: [TSRC 2021-12 Mobile No.1](https://security.tencent.com/index.php/thanks?ranktype=month&vulntype=mobile&year=2021&month=12)
+- ...
 
 ## 📫 Reach Me
 
