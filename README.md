@@ -12,7 +12,7 @@
 - Bug Hunter
 
 ## 🌱 Acknowledgements
-- Apple 2022-10: [CVE-2022-32836](https://support.apple.com/en-us/HT213473]
+- Apple 2022-10: [CVE-2022-32836](https://support.apple.com/en-us/HT213473)
 - Android 2022-04: [CVE-2021-39794](https://source.android.com/docs/security/bulletin/2022-04-01)
 - Samsung 2022-04: [CVE-2022-28542](https://security.samsungmobile.com/serviceWeb.smsb)
 - Microsoft 2022-01-31: [MSRC Online Services](https://msrc.microsoft.com/update-guide/acknowledgement/online)
