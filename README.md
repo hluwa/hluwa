@@ -18,6 +18,7 @@
 - Microsoft 2022-01-31: [MSRC Online Services](https://msrc.microsoft.com/update-guide/acknowledgement/online)
 - XiaoMi: [MiSRC 2021-12 No.1](https://sec.xiaomi.com/#/hero) 
 - Tencent: [TSRC 2021-12 Mobile No.1](https://security.tencent.com/index.php/thanks?ranktype=month&vulntype=mobile&year=2021&month=12)
+- Google: [Google Bug Hunters Top 100](https://bughunters.google.com/profile/c449ce54-ba65-4d97-aae4-748a0c5a2ee7)
 - ...
 
 ## 📫 Reach Me
