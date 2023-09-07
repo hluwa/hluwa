@@ -4,6 +4,7 @@ Mobile / RE / Bug Hunter
 
 ## 🌱 Acknowledgements
 
+- [Android CVE-2023-35676](https://source.android.com/docs/security/bulletin/2023-09-01)
 - [Apple CVE-2023-28203](https://support.apple.com/en-us/HT213833)
 - [Apple CVE-2022-32836](https://support.apple.com/en-us/HT213473)
 - [Android CVE-2021-39794](https://source.android.com/docs/security/bulletin/2022-04-01)
